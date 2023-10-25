@@ -1,0 +1,9 @@
+.wrapper .css-1hsz34s-MuiDrawer-docked .MuiDrawer-paper {
+background: #000 !important;
+}
+.wrapper .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft{
+  background: #000;
+}
+.wrapper button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium {
+  color: #fff;
+}
